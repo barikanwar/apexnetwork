@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/apexnetwork/static/css/main.79dc7cb1.chunk.css",
+    "main.js": "/apexnetwork/static/js/main.8eeb2f9a.chunk.js",
+    "main.js.map": "/apexnetwork/static/js/main.8eeb2f9a.chunk.js.map",
+    "runtime-main.js": "/apexnetwork/static/js/runtime-main.5476f727.js",
+    "runtime-main.js.map": "/apexnetwork/static/js/runtime-main.5476f727.js.map",
+    "static/css/2.2a86faee.chunk.css": "/apexnetwork/static/css/2.2a86faee.chunk.css",
+    "static/js/2.80f3acb3.chunk.js": "/apexnetwork/static/js/2.80f3acb3.chunk.js",
+    "static/js/2.80f3acb3.chunk.js.map": "/apexnetwork/static/js/2.80f3acb3.chunk.js.map",
+    "index.html": "/apexnetwork/index.html",
+    "precache-manifest.ce02cafbaf08e510e4e23c2207d1d105.js": "/apexnetwork/precache-manifest.ce02cafbaf08e510e4e23c2207d1d105.js",
+    "service-worker.js": "/apexnetwork/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/apexnetwork/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.79dc7cb1.chunk.css.map": "/apexnetwork/static/css/main.79dc7cb1.chunk.css.map",
+    "static/js/2.80f3acb3.chunk.js.LICENSE.txt": "/apexnetwork/static/js/2.80f3acb3.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/apexnetwork/static/media/1.8c52c7c9.jpg",
+    "static/media/2.jpg": "/apexnetwork/static/media/2.2dc96523.jpg",
+    "static/media/3.png": "/apexnetwork/static/media/3.cdb5e50a.png",
+    "static/media/4.jpg": "/apexnetwork/static/media/4.d942d77b.jpg",
+    "static/media/5.jpg": "/apexnetwork/static/media/5.2532db1e.jpg",
+    "static/media/5.webp": "/apexnetwork/static/media/5.48125aa3.webp",
+    "static/media/style.css": "/apexnetwork/static/media/ownPackage.0a5cc0c7.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5476f727.js",
+    "static/css/2.2a86faee.chunk.css",
+    "static/js/2.80f3acb3.chunk.js",
+    "static/css/main.79dc7cb1.chunk.css",
+    "static/js/main.8eeb2f9a.chunk.js"
+  ]
+}
