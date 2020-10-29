@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "16d17106c28e7c30498f04e5844c80ab",
+    "revision": "dd567b083d775b67f5048a94203c7f72",
     "url": "/apexnetwork/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/apexnetwork/static/css/2.2a86faee.chunk.css"
   },
   {
-    "revision": "537174b79ab9e447c6a3",
+    "revision": "a73425dfd6b2af7773fd",
     "url": "/apexnetwork/static/css/main.79dc7cb1.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/apexnetwork/static/js/2.80f3acb3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "537174b79ab9e447c6a3",
-    "url": "/apexnetwork/static/js/main.8eeb2f9a.chunk.js"
+    "revision": "a73425dfd6b2af7773fd",
+    "url": "/apexnetwork/static/js/main.83d45d6f.chunk.js"
   },
   {
     "revision": "7df91d3a3389b97965b6",
