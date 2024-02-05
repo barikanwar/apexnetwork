@@ -1,0 +1,14 @@
+inputSet:
+  name: Build_barikanwar_apexnetwork_1707112841233-pr-trigger-input-set
+  identifier: Build_barikanwar_apexnetwork_1707112841233prtriggerinputset
+  orgIdentifier: default
+  projectIdentifier: default_project
+  pipeline:
+    identifier: Build_barikanwar_apexnetwork_1707112841233
+    properties:
+      ci:
+        codebase:
+          build:
+            type: PR
+            spec:
+              number: <+trigger.prNumber>
